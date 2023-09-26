@@ -108,7 +108,7 @@ and other disciplines
 2) Automation- Cloud providers offer tools and sevrices that facilitate automation, making it easier 
 to provision and manage cloud resources programically 
 3) Lean- Cloud resources are scaleable and can be provisioned on-demand 
-4) Measurement- Cloud platforms offer built in monitoring and analytics services making it easier to measure the performance of application infrstructure.
+4) Measurement- Cloud platforms offer built in monitoring and analytics    kkkservices making it easier to measure the performance of application infrstructure.
 
 
 

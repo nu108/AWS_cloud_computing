@@ -49,10 +49,12 @@ What are the different types of cloud services?
 
 6) Storage as a Service- provide scaleable and cost effective cloud based storage solutions for data storage, back up and Archiving 
 
-Advantages of cloud computing:
+**Advantages of cloud computing:**
 
 1)Cost savings- Cloud services eliminate the need for organisations to invest in and maintain expensive on-premise hardware and data centres 
+
 2)Scalability and flexibility- you can easily scale up or down/ Global reach- cloud providers have data centres in multiple regions- reach people all over the world 
+
 3)Accesibility- cloud services can be accessed over the internet in any part of the world 
 4) Speed and agility 
 5) Reliability and Availability 
@@ -60,16 +62,21 @@ Advantages of cloud computing:
 7) Disaster recovery
 
 
-Disadvantages of cloud computing 
+**Disadvantages of cloud computing** 
+
 1)Security and privacy concerns 
+
 2)Cost management 
+
 3)limited customisation
+
 4)dependency on service providers 
+
 5)data transfer and Bandwidth cost 
 
-What is Capex ?
+**What is Capex ?**
 
-1) Capital expenditures- refers to significant investments 
+Capital expenditures- refers to significant investments 
 that a company makes in assets or projects with the expectation of deriving
 long term benefits or values 
 
@@ -77,31 +84,39 @@ The main purpose of expenditure are made to aquire upgrade expand maintain asset
 for the companys operations and growth
 
 
-What is Operational expenditures?
+**What is Operational expenditures?**
 
-are on going day to day expenses incurred by a business to maintain its regular operations and generate revenue 
+are ongoing day to day expenses incurred by a business to maintain its regular operations and generate revenue 
 
 They are both a financial strategy 
 
 
-Three largest cloud providers:
+**Three largest cloud providers:**
 
-AWS-
+**AWS-**
 - early markert entry 
 - global reach 
 - extensive service portfolio 
 
-Microsoft Azure-
+**Microsoft Azure-**
+
 -Integration with microsoft products 
+
 -Hybrid cloud solutions 
+
 -Enterprise focus 
 
-Google Cloud Platform 
+**Google Cloud Platform**
+
 -Data and analytics strengths 
+
 -Global network 
+
 -Cloud native focus 
 
-What are the 4 pillars of DevOps? How do they link into the Cloud do you think?
+**What are the 4 pillars of DevOps?**
+
+**How do they link into the Cloud do you think?**
 
 1) Culture- Devops culture encourages cross functional teams to work seamlessly across development, operations
 and other disciplines 

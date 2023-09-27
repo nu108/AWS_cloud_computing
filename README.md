@@ -65,5 +65,5 @@ SSH connect to GitHub
 ![22.PNG](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2F22.PNG)
 
 11)
- 
+ cd to enter directorries
 

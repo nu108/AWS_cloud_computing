@@ -51,7 +51,8 @@ root user has the permission to do everything
 `sudo su` makes you the root user 
 
 `exit` will disconnect 
-cd
+
+
 Creating a script to install nginx
 
 1) nano provision.sh- creates a shell script and a text editor will open 
@@ -79,7 +80,6 @@ Creating a script to install nginx
 5) `./provision.sh`
 
 6) `sudo systemctl status nginx``
-
 
 
 

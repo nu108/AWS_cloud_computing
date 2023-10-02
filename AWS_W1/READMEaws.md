@@ -1,10 +1,10 @@
-what is cloud computing ?
+# What is cloud computing ?
 Cloud computing is the on-demand delivery of IT resources over the Internet 
 
-History of cloud computing.
+# History of cloud computing.
 ![cloud.PNG](..%2F..%2F..%2F..%2FDownloads%2Fcloud.PNG)
 
-What can you do with cloud computing ?
+# What can you do with cloud computing ?
 
 - Hosts websites & web applications
 - Store and back up data 
@@ -12,13 +12,13 @@ What can you do with cloud computing ?
 - Content delivery 
 - Serverless computing 
 
-What is on-prem?
+# What is on-prem?
 
 "On-premises" (often spelled "on-premises" or "on-premise") refers to the traditional 
 computing model where an organization owns, operates, and manages its own physical data centers, servers, and IT infrastructure within its own premises or facilities. In this model, all hardware, software, networking, 
 and data storage are physically located on the organization's property.
 
-On premises infrastructure 
+# On premises infrastructure 
 
 -physical hardwares
 
@@ -26,7 +26,7 @@ On premises infrastructure
 
 -complete control 
 
-What are the 4 types of cloud?
+# What are the 4 types of cloud?
 
 1) Public cloud- cloud resources and services owned by 
 a third party cloud provider
@@ -35,7 +35,7 @@ a third party cloud provider
 allowing data and applications to be shared between them 
 4) Multi-Cloud- strategy involves using multiple cloud service providers to meet different business needs 
 
-What are the different types of cloud services?
+# What are the different types of cloud services?
 
 1) Infrastructure as a Service- provides virtualised computing resources over the internet 
 
@@ -49,7 +49,7 @@ What are the different types of cloud services?
 
 6) Storage as a Service- provide scaleable and cost effective cloud based storage solutions for data storage, back up and Archiving 
 
-**Advantages of cloud computing:**
+# Advantages of cloud computing:
 
 1)Cost savings- Cloud services eliminate the need for organisations to invest in and maintain expensive on-premise hardware and data centres 
 
@@ -62,7 +62,7 @@ What are the different types of cloud services?
 7) Disaster recovery
 
 
-**Disadvantages of cloud computing** 
+# Disadvantages of cloud computing
 
 1)Security and privacy concerns 
 
@@ -74,7 +74,7 @@ What are the different types of cloud services?
 
 5)data transfer and Bandwidth cost 
 
-**What is Capex ?**
+# What is Capex ?
 
 Capital expenditures- refers to significant investments 
 that a company makes in assets or projects with the expectation of deriving
@@ -84,14 +84,14 @@ The main purpose of expenditure are made to aquire upgrade expand maintain asset
 for the companys operations and growth
 
 
-**What is Operational expenditures?**
+# What is Operational expenditures?
 
 are ongoing day to day expenses incurred by a business to maintain its regular operations and generate revenue 
 
 They are both a financial strategy 
 
 
-**Three largest cloud providers:**
+# Three largest cloud providers:
 
 **AWS-**
 - early markert entry 
@@ -114,9 +114,9 @@ They are both a financial strategy
 
 -Cloud native focus 
 
-**What are the 4 pillars of DevOps?**
+# What are the 4 pillars of DevOps?
 
-**How do they link into the Cloud do you think?**
+# How do they link into the Cloud do you think?
 
 1) Culture- Devops culture encourages cross functional teams to work seamlessly across development, operations
 and other disciplines 

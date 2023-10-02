@@ -1,4 +1,4 @@
-Automation Script:
+# Automation Script:
 
 1) Create and open a script file 
 Enter following command: `nano provision_app.sh`

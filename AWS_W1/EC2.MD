@@ -1,5 +1,5 @@
 
-EC2- dashboard 
+# EC2- dashboard 
 
 1) Name instance: `tech254_nadia_nginx`
 2) Choose image 

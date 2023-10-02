@@ -1,8 +1,8 @@
-How to create SSH on Git
+# How to create SSH on Git
 
 
 
-Git Commands:
+# Git Commands:
 
 -          git init- initialises a new Git repository
 
@@ -28,7 +28,7 @@ Git Commands:
 
  
 
-SSH connect to GitHub
+# SSH connect to GitHub
 
 1)      make a directory = mkdir .ssh
 ![ssh 1.PNG](..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2Fssh%201.PNG)

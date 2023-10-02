@@ -1,4 +1,4 @@
-Deploying Sparta Global's website
+# Deploying Sparta Global's website
 
 
 Start an EC2 Instance and install the 'nginx' Web Server (for more detailed steps, you can access EC2 instance and 'nginx' Steps). Recap of commands: (can find on previous document)
@@ -47,5 +47,5 @@ ps2 is the project manager for node processes)
 
 8) Finally enter: `node app.js` to run app 
 
-WARNING: ensure the security group has an inboud rule for port 3000
+# WARNING: ensure the security group has an inboud rule for port 3000
 

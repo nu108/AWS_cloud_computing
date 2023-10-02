@@ -1,4 +1,4 @@
-Linux commands on Bash:
+# Linux commands on Bash:
 
 `uname` tells you where you are 
 
@@ -53,7 +53,7 @@ root user has the permission to do everything
 `exit` will disconnect 
 
 
-Creating a script to install nginx
+# Creating a script to install nginx
 
 1) nano provision.sh- creates a shell script and a text editor will open 
 
@@ -82,8 +82,8 @@ Creating a script to install nginx
 6) `sudo systemctl status nginx``
 
 
+# Managing processes 
 
-Managing processes 
 `ps` user processes 
 
 PID is the process id 
@@ -105,7 +105,7 @@ CMD is the command used
 
 `kill -9` strongest force used to kill a process. It is used at last resort if the previous commands ^ doesnt work
 
-Permissions:
+# Permissions:
 `ls -1` used to view permissions 
 
 chmod [permissions] [file] - chmod g+w filename adds writing permission for group. Might have to add sudo to the start. g for group and o for users. If no group is stated, all groups are given permission
@@ -114,7 +114,7 @@ chmod calculator:
 https://chmod-calculator.com/
 
 
-Enviroment variable
+# Enviroment variable
 printenv - Prints environment variables
 
 printenv USER - prints the user environment variable

@@ -80,7 +80,7 @@ print(bucket_content)`
 
 # Download a file from a s3 bucket
 
-`import boto3
+`import boto3`
 
 # s3 connection
 s3 = boto3.client('s3')

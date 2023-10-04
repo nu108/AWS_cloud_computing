@@ -30,7 +30,7 @@ scp -i "<filepath to .pem file>" -r app Ubuntu@<public IP>
 scp -i "C:/Users/Nadia/.ssh/tech254.pem" -r app ubuntu@ec2-3-249-92-82.eu-west-1.compute.amazonaws.com:~
 
 Option 2.2:  On the EC2 Instance terminal, cloning files from a GitHub Repository:
-git clone `https://github.com/LSF970/sparta_test_app.git`
+git clone https://github.com/LSF970/sparta_test_app.git
 
 3) To ensure all files have been added to the EC2 instance do `ls`
 

@@ -52,29 +52,29 @@ do ls to find folder
 
 # Create a s3 bucket 
 
-`# first thing is to import boto3 library
+`#first thing is to import boto3 library
 import boto3
 
-# set up a s3 connection
+#set up a s3 connection
 s3 = boto3.client('s3')
 
-# create a bucket in the eu-west-1 region
+#create a bucket in the eu-west-1 region
 bucket_name = s3.create_bucket(Bucket="tech254-nadia-python-bucket", CreateBucketConfiguration={"LocationConstraint":"eu-west-1"})
 
-# print the bucket name to confirm working script
+#print the bucket name to confirm working script
 print(bucket_name)`
 
-# Upload to s3 bucket
+#Upload to s3 bucket
 
 `import boto3
 
-# set up a s3 connection
+#set up a s3 connection
 s3 = boto3.client('s3')
 
-# create a variable for the bucket
+#create a variable for the bucket
 bucket_name = "tech254-nadia-python-bucket"
 
-# Upload a file to the bucket
+#Upload a file to the bucket
 bucket_content = s3.upload_file("testfile.txt", bucket_name, "testfile2.txt")
 print(bucket_content)`
 
@@ -82,13 +82,13 @@ print(bucket_content)`
 
 `import boto3`
 
-# s3 connection
+#s3 connection
 s3 = boto3.client('s3')
 
-# create a variable for the bucket
+#create a variable for the bucket
 bucket_name = "tech254-nadia-python-bucket"
 
-# download a file
+#download a file
 s3.download_file(bucket_name, "testfile2.txt", "download_file.txt")
 print(s3.download_file)`
 

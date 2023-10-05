@@ -1,0 +1,21 @@
+Go to cloudwatch
+
+In the navigation pane, choose Alarms, All Alarms.
+
+Choose Create alarm.
+
+Choose Select metric.
+
+In the All metrics tab, choose EC2 metrics.
+
+Choose a metric category (for example, Per-Instance Metrics).
+
+After entering Per-Instance Metrics locate your EC2 CPU file 
+
+Next keep settings as default. You can set cpu utilisation here. 
+
+On configure action stage create a topic. This will allow you to get alerts on the CPU.
+
+ADD the name of the alarm and email of where you want the alert to go 
+
+Lastly create alarm

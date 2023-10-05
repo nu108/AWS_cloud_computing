@@ -34,13 +34,13 @@ git clone https://github.com/LSF970/sparta_test_app.git
 
 3) To ensure all files have been added to the EC2 instance do `ls`
 
-4) Next print the following command `curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -` This command will download the NodeJs 
+4) Next print the following command | sudo -E bash -` This command`curl -sL https://deb.nodesource.com/setup_12.x  will download the NodeJs 
 
 5) Now you will have to download NodeJs. Print the following command `sudo apt install nodejs -y`
 
 6) To check the version of the Nodej enter `node -v`
 
- 7) To install your applicaion enter `sudo npm install pm2 -g` following with `npm install`
+ 7) To install your applicaion enter `` following with `npm install`
 
 (npm is the node package manager
 ps2 is the project manager for node processes)

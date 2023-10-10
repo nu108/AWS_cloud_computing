@@ -20,7 +20,7 @@ NOTE: Should say State available very quickly
 10. Create Subnets
 11. Search for your name VPC 
 12. Subnet settings > subnet 1 of 1 = `public-subnet`
-
+![alt text]subnet1.png 
 
 13. Choose availability zone = `Europe (ireland) / eu-west-1 1a`
 14. IPv4 subnet CIDR block = `10.0.2.0/24`

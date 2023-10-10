@@ -20,7 +20,8 @@ NOTE: Should say State available very quickly
 10. Create Subnets
 11. Search for your name VPC 
 12. Subnet settings > subnet 1 of 1 = `public-subnet`
-![alt text]subnet1.png 
+
+![alt text]subnet1.png  
 
 13. Choose availability zone = `Europe (ireland) / eu-west-1 1a`
 14. IPv4 subnet CIDR block = `10.0.2.0/24`
@@ -31,6 +32,8 @@ NOTE: should tell you number of IP address in that space in right hand
 18. Choose availability zone = `Europe (ireland) / eu-west-1 1b`
 19. IPv4 subnet CIDR block = `10.0.3.0/24`
 20. click `Create Subnets`
+
+![alt text]subnet2.png 
 
 Create Internet Gateway
 1. Select Internet Gateway in navigation plane
@@ -122,3 +125,5 @@ Check its worked
 3. Sparta App should be displayed
 4. Add `/posts` at the end of the IP (IP Address/posts) 
 5. Sparta posts page should be displayed
+
+![alt text]vpc.png 

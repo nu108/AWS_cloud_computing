@@ -59,7 +59,7 @@ NEXT:
 
 NEXT:
 
-`sudo nano /etc/mongod.conf`
+``
 
 In this command permission change it to 0/0/0/0. This allows everyone to view the profile.
 
